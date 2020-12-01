@@ -5,6 +5,12 @@ namespace calamityVanillaItemRecipeChanges.Items
 {
     class EssenceOfEleum : ModItem
     {
+		public override void SetStaticDefaults() 
+		{
+			DisplayName.SetDefault("Essence of Eleum");
+			Tooltip.SetDefault("The essence of cold creatures");
+		}
+
 		public override void SetDefaults()
 		{
             item.maxStack = 999;
