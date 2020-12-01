@@ -1,0 +1,3 @@
+Calamity Vanilla Item Recipe Changes does exactly that (adds the vanilla crafting changes from Calamity)
+
+Please note this mod does not work while Calamity is enabled
