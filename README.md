@@ -2,8 +2,12 @@
 Calamity Vanilla Item Recipe Changes mod adds the vanilla crafting changes from Calamity to vanilla Terraria<br/>
 (Please note this mod does not work while the Calamity mod is enabled)
 
+## Discussion Board
+<p>Github recently (I think it was recently) added discussion boards so... <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges/discussions">go check them out</a>.</p>
+
+
 ## Items Added from Calamity
-<p>Some items from calamity have been added for the crafting recipes</p><br/>
+<p>Some items from calamity have been added for the crafting recipes.</p><br/>
 <table>
     <tr>
         <th>Item</th>
