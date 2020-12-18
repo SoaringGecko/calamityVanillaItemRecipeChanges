@@ -7,7 +7,8 @@ Calamity Vanilla Item Recipe Changes mod adds the vanilla crafting changes from 
 
 
 ## Items Added from Calamity
-<p>Some items from calamity have been added for the crafting recipes.</p><br/>
+<p>Some items from calamity have been added for the crafting recipes.</p>
+<p>(you can hover over an image for a name or click it to go to the wiki page)</p><br/>
 <table>
     <tr>
         <th>Item</th>
