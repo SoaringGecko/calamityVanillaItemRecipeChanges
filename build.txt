@@ -1,4 +1,4 @@
 displayName = Calamity Vanilla Item Recipe Changes
 author = SoaringGecko
-version = 1.2
+version = 1.3
 homepage = https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges

@@ -395,7 +395,7 @@ namespace calamityVanillaItemRecipeChanges.Items
 			recipe.AddIngredient(ItemID.EmptyBullet, 20);
 			recipe.AddIngredient(ItemID.ExplosivePowder);
 			recipe.AddTile(TileID.MythrilAnvil);
-			recipe.SetResult(ItemID.RocketI);
+			recipe.SetResult(ItemID.RocketI, 20);
 			recipe.AddRecipe();
 
 			//	ARMOR
@@ -566,280 +566,280 @@ namespace calamityVanillaItemRecipeChanges.Items
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BottledWater);
-						recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
+			recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
 			recipe.AddTile(TileID.AlchemyTable);
 			recipe.SetResult(ItemID.ArcheryPotion);
 			recipe.AddRecipe();
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BottledWater);
-						recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
+			recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
 			recipe.AddTile(TileID.AlchemyTable);
 			recipe.SetResult(ItemID.BattlePotion);
 			recipe.AddRecipe();
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BottledWater);
-						recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
+			recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
 			recipe.AddTile(TileID.AlchemyTable);
 			recipe.SetResult(ItemID.BuilderPotion);
 			recipe.AddRecipe();
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BottledWater);
-						recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
+			recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
 			recipe.AddTile(TileID.AlchemyTable);
 			recipe.SetResult(ItemID.CalmingPotion);
 			recipe.AddRecipe();
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BottledWater);
-						recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
+			recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
 			recipe.AddTile(TileID.AlchemyTable);
 			recipe.SetResult(ItemID.CratePotion);
 			recipe.AddRecipe();
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BottledWater);
-						recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
+			recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
 			recipe.AddTile(TileID.AlchemyTable);
 			recipe.SetResult(ItemID.TrapsightPotion);
 			recipe.AddRecipe();
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BottledWater);
-						recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
+			recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
 			recipe.AddTile(TileID.AlchemyTable);
 			recipe.SetResult(ItemID.EndurancePotion);
 			recipe.AddRecipe();
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BottledWater);
-						recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
+			recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
 			recipe.AddTile(TileID.AlchemyTable);
 			recipe.SetResult(ItemID.Feather);
 			recipe.AddRecipe();
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BottledWater);
-						recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
+			recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
 			recipe.AddTile(TileID.AlchemyTable);
 			recipe.SetResult(ItemID.FishingPotion);
 			recipe.AddRecipe();
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BottledWater);
-						recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
+			recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
 			recipe.AddTile(TileID.AlchemyTable);
 			recipe.SetResult(ItemID.FlipperPotion);
 			recipe.AddRecipe();
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BottledWater);
-						recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
+			recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
 			recipe.AddTile(TileID.AlchemyTable);
 			recipe.SetResult(ItemID.GenderChangePotion);
 			recipe.AddRecipe();
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BottledWater);
-						recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
+			recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
 			recipe.AddTile(TileID.AlchemyTable);
 			recipe.SetResult(ItemID.GillsPotion);
 			recipe.AddRecipe();
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BottledWater);
-						recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
+			recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
 			recipe.AddTile(TileID.AlchemyTable);
 			recipe.SetResult(ItemID.GravitationPotion);
 			recipe.AddRecipe();
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BottledWater);
-						recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
+			recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
 			recipe.AddTile(TileID.AlchemyTable);
 			recipe.SetResult(ItemID.HeartreachPotion);
 			recipe.AddRecipe();
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BottledWater);
-						recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
+			recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
 			recipe.AddTile(TileID.AlchemyTable);
 			recipe.SetResult(ItemID.HunterPotion);
 			recipe.AddRecipe();
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BottledWater);
-						recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
+			recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
 			recipe.AddTile(TileID.AlchemyTable);
 			recipe.SetResult(ItemID.InfernoPotion);
 			recipe.AddRecipe();
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BottledWater);
-						recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
+			recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
 			recipe.AddTile(TileID.AlchemyTable);
 			recipe.SetResult(ItemID.InvisibilityPotion);
 			recipe.AddRecipe();
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BottledWater);
-						recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
+			recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
 			recipe.AddTile(TileID.AlchemyTable);
 			recipe.SetResult(ItemID.IronskinPotion);
 			recipe.AddRecipe();
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BottledWater);
-						recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
+			recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
 			recipe.AddTile(TileID.AlchemyTable);
 			recipe.SetResult(ItemID.LifeforcePotion);
 			recipe.AddRecipe();
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BottledWater);
-						recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
+			recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
 			recipe.AddTile(TileID.AlchemyTable);
 			recipe.SetResult(ItemID.LovePotion);
 			recipe.AddRecipe();
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BottledWater);
-						recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
+			recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
 			recipe.AddTile(TileID.AlchemyTable);
 			recipe.SetResult(ItemID.MagicPowerPotion);
 			recipe.AddRecipe();
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BottledWater);
-						recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
+			recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
 			recipe.AddTile(TileID.AlchemyTable);
 			recipe.SetResult(ItemID.ManaRegenerationPotion);
 			recipe.AddRecipe();
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BottledWater);
-						recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
+			recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
 			recipe.AddTile(TileID.AlchemyTable);
 			recipe.SetResult(ItemID.MiningPotion);
 			recipe.AddRecipe();
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BottledWater);
-						recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
+			recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
 			recipe.AddTile(TileID.AlchemyTable);
 			recipe.SetResult(ItemID.NightOwlPotion);
 			recipe.AddRecipe();
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BottledWater);
-						recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
+			recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
 			recipe.AddTile(TileID.AlchemyTable);
 			recipe.SetResult(ItemID.ObsidianSkinPotion);
 			recipe.AddRecipe();
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BottledWater);
-						recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
+			recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
 			recipe.AddTile(TileID.AlchemyTable);
 			recipe.SetResult(ItemID.RagePotion);
 			recipe.AddRecipe();
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BottledWater);
-						recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
+			recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
 			recipe.AddTile(TileID.AlchemyTable);
 			recipe.SetResult(ItemID.RegenerationPotion);
 			recipe.AddRecipe();
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BottledWater);
-						recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
+			recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
 			recipe.AddTile(TileID.AlchemyTable);
 			recipe.SetResult(ItemID.ShinePotion);
 			recipe.AddRecipe();
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BottledWater);
-						recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
+			recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
 			recipe.AddTile(TileID.AlchemyTable);
 			recipe.SetResult(ItemID.SonarPotion);
 			recipe.AddRecipe();
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BottledWater);
-						recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
+			recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
 			recipe.AddTile(TileID.AlchemyTable);
 			recipe.SetResult(ItemID.SpelunkerPotion);
 			recipe.AddRecipe();
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BottledWater);
-						recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
+			recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
 			recipe.AddTile(TileID.AlchemyTable);
 			recipe.SetResult(ItemID.StinkPotion);
 			recipe.AddRecipe();
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BottledWater);
-						recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
+			recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
 			recipe.AddTile(TileID.AlchemyTable);
 			recipe.SetResult(ItemID.SummoningPotion);
 			recipe.AddRecipe();
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BottledWater);
-						recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
+			recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
 			recipe.AddTile(TileID.AlchemyTable);
 			recipe.SetResult(ItemID.SwiftnessPotion);
 			recipe.AddRecipe();
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BottledWater);
-						recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
+			recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
 			recipe.AddTile(TileID.AlchemyTable);
 			recipe.SetResult(ItemID.TeleportationPotion);
 			recipe.AddRecipe();
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BottledWater);
-						recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
+			recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
 			recipe.AddTile(TileID.AlchemyTable);
 			recipe.SetResult(ItemID.ThornsPotion);
 			recipe.AddRecipe();
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BottledWater);
-						recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
+			recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
 			recipe.AddTile(TileID.AlchemyTable);
 			recipe.SetResult(ItemID.TitanPotion);
 			recipe.AddRecipe();
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BottledWater);
-						recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
+			recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
 			recipe.AddTile(TileID.AlchemyTable);
 			recipe.SetResult(ItemID.WarmthPotion);
 			recipe.AddRecipe();
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BottledWater);
-						recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
+			recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
 			recipe.AddTile(TileID.AlchemyTable);
 			recipe.SetResult(ItemID.WaterWalkingPotion);
 			recipe.AddRecipe();
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BottledWater);
-						recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
+			recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
 			recipe.AddTile(TileID.AlchemyTable);
 			recipe.SetResult(ItemID.WormholePotion);
 			recipe.AddRecipe();
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BottledWater);
-						recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
+			recipe.AddIngredient(mod.ItemType("BloodOrb"), 10);
 			recipe.AddTile(TileID.AlchemyTable);
 			recipe.SetResult(ItemID.WrathPotion);
 			recipe.AddRecipe();
