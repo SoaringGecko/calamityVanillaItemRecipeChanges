@@ -2,7 +2,7 @@
 Calamity Vanilla Item Recipe Changes mod adds the vanilla crafting changes from Calamity to vanilla Terraria<br/> 
 (Please note this mod does not work while the Calamity mod is enabled)
 
-<img src="https://bettermodwidget.javidpack.repl.co/?mod=calamityVanillaItemRecipeChanges" width="500px">
+<img src="http://javid.ddns.net/tModLoader/widget/widgetimage/calamityVanillaItemRecipeChanges.png" width="500px">
 
 <table>
 
