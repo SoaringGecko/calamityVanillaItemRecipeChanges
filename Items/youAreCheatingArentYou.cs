@@ -40,7 +40,8 @@ namespace calamityVanillaItemRecipeChanges.Items
 			recipe.AddTile(TileID.CrystalBall);
 			recipe.SetResult(ItemID.MagicQuiver);
 			recipe.AddRecipe();
-
+			
+			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.Leather, 2);
 			recipe.AddIngredient(ItemID.ViciousPowder, 10);
 			recipe.AddTile(TileID.Hellforge);
@@ -448,12 +449,6 @@ namespace calamityVanillaItemRecipeChanges.Items
 			recipe.SetResult(ItemID.LihzahrdPowerCell);
 			recipe.AddRecipe();
 
-			recipe = new ModRecipe(mod);
-			recipe.AddIngredient(ItemID.LihzahrdBrick, 15);
-			recipe.AddTile(TileID.LihzahrdFurnace);
-			recipe.SetResult(ItemID.LihzahrdPowerCell);
-			recipe.AddRecipe();
-
 			//	CRAFTING MATERIALS
 
 			recipe = new ModRecipe(mod);
@@ -465,18 +460,6 @@ namespace calamityVanillaItemRecipeChanges.Items
 
 			recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.Vertebrae, 5);
-			recipe.AddTile(TileID.WorkBenches);
-			recipe.SetResult(ItemID.Leather);
-			recipe.AddRecipe();
-
-			recipe = new ModRecipe(mod);
-			recipe.AddIngredient(ItemID.RottenChunk, 5);
-			recipe.AddTile(TileID.WorkBenches);
-			recipe.SetResult(ItemID.Leather);
-			recipe.AddRecipe();
-
-			recipe = new ModRecipe(mod);
-			recipe.AddIngredient(ItemID.RottenChunk, 5);
 			recipe.AddTile(TileID.WorkBenches);
 			recipe.SetResult(ItemID.Leather);
 			recipe.AddRecipe();

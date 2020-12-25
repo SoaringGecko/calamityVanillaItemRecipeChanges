@@ -42,6 +42,8 @@ Calamity Vanilla Item Recipe Changes mod adds the vanilla crafting changes from 
    <tr>
         <td><img src="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges/blob/main/Items/BloodOrb.png?raw=true" alt="Blood Orb" title="Blood Orb"> Blood Orb</td>
         <td>
+            <a href="https://terraria.gamepedia.com/Zombie"><img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Zombie.png/revision/latest/scale-to-width-down/34?cb=20171102011214" alt="Zombie" title="Zombie"> Zombie</a> (Blood Moon)</br>
+            <a href="https://terraria.gamepedia.com/Demon_Eye"><img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9d/Demon_Eye.png/revision/latest/scale-to-width-down/36?cb=20170420003551" alt="Demon Eye" title="Demon Eye"> Demon Eye</a> (Blood Moon)</br>
             <a href="https://terraria.gamepedia.com/Blood_Zombie"><img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/5/59/Blood_Zombie.png/revision/latest/scale-to-width-down/38?cb=20171104201710" alt="Blood Zombie" title="Blood Zombie"> Blood Zombie</a></br>
             <a href="https://terraria.gamepedia.com/Drippler"><img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/b/ba/Drippler.png/revision/latest/scale-to-width-down/30?cb=20170502025657" alt="Drippler" title="Drippler"> Drippler</a></br>
             <a href="https://terraria.gamepedia.com/The_Bride"><img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3f/The_Bride.png/revision/latest/scale-to-width-down/34?cb=20150701103423" alt="The Bride" title="The Bride"> The Bride</a></br>
