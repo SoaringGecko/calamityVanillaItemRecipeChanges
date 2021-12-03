@@ -1,9 +1,9 @@
-# calamityVanillaItemRecipeChanges 
-Calamity Vanilla Item Recipe Changes mod adds the vanilla crafting changes from Calamity to vanilla Terraria<br/> 
+# calamityVanillaItemRecipeChanges
+
+Calamity Vanilla Item Recipe Changes mod adds the vanilla crafting changes from Calamity to vanilla Terraria  
 (Please note this mod does not work while the Calamity mod is enabled)
 
-<p><a href="http://javid.ddns.net/tModLoader/widget/widgetimage/calamityVanillaItemRecipeChanges.png">View mod stats</a></p>
-
+[View mod stats](http://javid.ddns.net/tModLoader/widget/widgetimage/calamityVanillaItemRecipeChanges.png)
 
 <table>
 
@@ -18,12 +18,15 @@ Calamity Vanilla Item Recipe Changes mod adds the vanilla crafting changes from 
 </table>
 
 ## Discussion Board
-<p>Github recently (I think it was recently) added discussion boards so... <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges/discussions">go check them out</a>.</p>
 
+Github recently (I think it was recently) added discussion boards so... [go check them out](https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges/discussions).
 
 ## Items Added from Calamity
-<p>Some items from calamity have been added for the crafting recipes.</p>
-<p>(you can click an item or mob to go to its wiki page)</p><br/>
+
+Some items from calamity have been added for the crafting recipes.
+
+(you can click an item or mob to go to its wiki page)
+
 <table>
     <tr>
         <th>Item</th>
@@ -106,7 +109,8 @@ Calamity Vanilla Item Recipe Changes mod adds the vanilla crafting changes from 
 </table>
 
 ## Crafting Recipes
-<p>All crafting recipes that have been added</p>
+
+All crafting recipes that have been added
 
 <table>
 <tr>
@@ -329,7 +333,7 @@ Calamity Vanilla Item Recipe Changes mod adds the vanilla crafting changes from 
    </tr>
 
    <tr>
-    <td><a href="https://terraria.gamepedia.com/Snow_armor"><img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1b/Eskimo_Coat.png/revision/latest/scale-to-width-down/30?cb=20161020002009" alt="Eskimo Coat" title="Eskimo Coat"> Eskimo Coat</a></td>
+    <td><a href="https://terraria.gamepedia.com/Snow_armor"><img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/11/Snow_Coat_%28old%29.png/revision/latest/scale-to-width-down/30?cb=20210204041341&format=original" alt="Eskimo Coat" title="Eskimo Coat"> Eskimo Coat</a></td>
     <td><a href="https://terraria.gamepedia.com/Silk"><img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/8/83/Silk.png/revision/latest/scale-to-width-down/26?cb=20200820022839" alt="Silk" title="Silk"> Silk</a> (8)</br><a href="https://terraria.gamepedia.com/Leather"><img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Leather.png/revision/latest/scale-to-width-down/20?cb=20200516214635" alt="Leather" title="Leather"> Leather</a></br><a href="https://terraria.gamepedia.com/Boreal_Wood"><img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d3/Boreal_Wood.png/revision/latest/scale-to-width-down/24?cb=20200516200701" alt="Boreal Wood" title="Boreal Wood"> Boreal Wood</a> (18)</td>
     <td rowspan="3"><a href="https://terraria.gamepedia.com/Loom"><img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9d/Loom_%28placed%29.png/revision/latest/scale-to-width-down/46?cb=20160626093137" alt="Loom" title="Loom"> Loom</a></td>
    </tr>
@@ -725,3 +729,5 @@ Calamity Vanilla Item Recipe Changes mod adds the vanilla crafting changes from 
    </tr>
    
 </table>
+
+
